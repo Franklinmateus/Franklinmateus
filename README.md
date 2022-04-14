@@ -1,6 +1,6 @@
 ### Opa 👋
 
-- 💻 Estudante de Tecnologia e Análise de Sistemas
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando tecnologias Web e Mobile
 
 <div align="center">
